@@ -1,5 +1,7 @@
 ## 🖥️ Front-End
-![1102010](https://github.com/user-attachments/assets/d2e30ee2-dba0-4448-b9b7-7c544daa7964)
+
+![Uploading 1102010.jpg…]()
+
 
 
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
