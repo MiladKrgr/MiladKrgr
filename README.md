@@ -24,4 +24,3 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=fff)](https://github.com/)
 [![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=fff)](https://code.visualstudio.com/)
 [![npm](https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=fff)](https://www.npmjs.com/)
-`
