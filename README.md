@@ -7,6 +7,8 @@
 [![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=fff)](https://angular.io/)
 [![React.js](https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=000)](https://react.dev/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=fff)](https://tailwindcss.com/)
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=fff)](https://getbootstrap.com/)
+
 
 ---
 
